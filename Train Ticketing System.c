@@ -30,14 +30,6 @@ int main()
 	printf("\t\t|        -----------------------------          |\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|                                               |\n");
-	printf("\t\t|                                               |\n");
-	printf("\t\t|             BROUGHT TO YOU BY                 |\n");
-	printf("\t\t|           NATASHAH AMIRAH 181792              |\n");
-	printf("\t\t|           NUR IMAN KAMILA 182262              |\n");
-	printf("\t\t|          NUR LIYANA AMEERA 182300             |\n");
-	printf("\t\t|         NIK DEANNA ASHEERA  181817            |\n");
-	printf("\t\t|         NUR FARISYA AQILAH  182300            |\n");
-	printf("\t\t|                                               |\n");
 	printf("\t\t=================================================\n\n\n");
 		
 	    
